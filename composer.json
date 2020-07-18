@@ -3,7 +3,7 @@
         "kryptonit3/sonarr": "^1.0",
         "kryptonit3/couchpotato": "^1.0",
         "kryptonit3/sickrage": "^1.0",
-        "phpmailer/phpmailer": "^5.2",
+        "phpmailer/phpmailer": "^6.1",
         "guzzlehttp/guzzle": "^6.2",
         "php-http/guzzle6-adapter": "^1.1",
         "sparkpost/sparkpost": "^2.1",
